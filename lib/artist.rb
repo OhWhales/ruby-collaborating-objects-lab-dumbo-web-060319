@@ -8,7 +8,6 @@ class Artist
   end
   
   def add_song
-    myArr=[]
     x = Song.all 
     
   end
