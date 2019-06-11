@@ -8,7 +8,7 @@ class Artist
   end
   
   def add_song
-    
+    x = Song.all 
   end
   
   def save 
